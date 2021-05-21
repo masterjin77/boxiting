@@ -1,1 +1,3 @@
-Hi. Azure App Test. Git hub.
+<?
+echo "Hi. Azure App Test. Git hub.";
+?>
